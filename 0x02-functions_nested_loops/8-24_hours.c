@@ -19,10 +19,10 @@ hours_remainder;
 	{
 	mins_remainder = minutes % 10;
 	hours_remainder = hours % 10;
-	_purchar(hours / 10 + '0');
+	_putchar(hours / 10 + '0');
 _putchar(hours_remainder + '0');
-	_putcahr(':');
-	_putcahr(minutes / 10 + '0');
+	_putchar(':');
+	_putchar(minutes / 10 + '0');
 	minutes++;
 	_putchar('\n');
 	}
