@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - cuases and infinite loop
+ * main - causes and infinite loop
  * Return: 0
  */
 
@@ -13,8 +13,8 @@ printf("infinite loop incoming :(\n");
 
 i = 0;
 /*
- *while (i < 10)
- *{
- *putchar(i);
- *}
- */
+*while (i < 10)
+*{
+*putchar(i);
+*}
+*/
