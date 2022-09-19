@@ -5,7 +5,7 @@
  *_puts - prints a strin
  * @str: string to print
  *
- * Description: prints a string 
+ * Description: prints a string
  * on success: returns no error
  */
 
