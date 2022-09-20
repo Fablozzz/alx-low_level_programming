@@ -25,3 +25,4 @@ num = num * 10 + (*s - '0');
 	} while (*s++);
 
 	return (num * sign);
+}
