@@ -2,7 +2,7 @@
 
 /**
 * _atoi - converts a string to an int
-* @s: the string to be changed 
+* @s: the string to be changed
 *
 * Return: the converted int
 */
@@ -24,5 +24,5 @@ num = num * 10 + (*s - '0');
 			break;
 	} while (*s++);
 
-	return (num * sign);
+	return (num *sign);
 }
